@@ -1,2 +1,3 @@
 # BeatGAN
-Anomaly Detection Method BeatGAN with SWaT dataset 
+Unofficial Implementation of Time Series Anomaly Detection Method BeatGAN for SWaT Dataset 
+Paper Link : https://www.ijcai.org/proceedings/2019/0616.pdf
